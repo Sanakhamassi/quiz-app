@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780181957828",
+    "project_id": "mentimeter-52493",
+    "storage_bucket": "mentimeter-52493.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780181957828:android:d3c6004e4a24a1b52d2d91",
+        "android_client_info": {
+          "package_name": "com.example.mentimeter_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780181957828-n2sqj0602c74gq0ibqc8dgvppbb3he12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe1Q3DrEteR7M3Vv0s787AUitixCr8dOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780181957828-n2sqj0602c74gq0ibqc8dgvppbb3he12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
